@@ -1,0 +1,10 @@
+D:\Ada\škola\IKT\Programování\Kolik stála cesta\Kolik stála cesta\bin\Debug\Kolik stála cesta.exe.config
+D:\Ada\škola\IKT\Programování\Kolik stála cesta\Kolik stála cesta\bin\Debug\Kolik stála cesta.exe
+D:\Ada\škola\IKT\Programování\Kolik stála cesta\Kolik stála cesta\bin\Debug\Kolik stála cesta.pdb
+D:\Ada\škola\IKT\Programování\Kolik stála cesta\Kolik stála cesta\obj\Debug\Kolik stála cesta.csprojAssemblyReference.cache
+D:\Ada\škola\IKT\Programování\Kolik stála cesta\Kolik stála cesta\obj\Debug\Kolik_stála_cesta.Properties.Resources.resources
+D:\Ada\škola\IKT\Programování\Kolik stála cesta\Kolik stála cesta\obj\Debug\Kolik stála cesta.csproj.GenerateResource.cache
+D:\Ada\škola\IKT\Programování\Kolik stála cesta\Kolik stála cesta\obj\Debug\Kolik stála cesta.csproj.CoreCompileInputs.cache
+D:\Ada\škola\IKT\Programování\Kolik stála cesta\Kolik stála cesta\obj\Debug\Kolik stála cesta.exe
+D:\Ada\škola\IKT\Programování\Kolik stála cesta\Kolik stála cesta\obj\Debug\Kolik stála cesta.pdb
+D:\Ada\škola\IKT\Programování\Kolik stála cesta\Kolik stála cesta\obj\Debug\Kolik_stála_cesta.formKolikStalaCesta.resources
