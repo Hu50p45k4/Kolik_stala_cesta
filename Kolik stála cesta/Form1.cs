@@ -19,7 +19,7 @@ namespace Kolik_stála_cesta
 
         private void tlacitkoOProgramu_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Adéla Křížová\nMaturita z INFORMATIKY 2016\nPísemná práce - část č. 3\nGymnázium Ústí nad Orlicí");
+            MessageBox.Show("Maturita z INFORMATIKY 2016\nPísemná práce - část č. 3");
         }
 
         private void tlacitkoVypocti_Click(object sender, EventArgs e)
